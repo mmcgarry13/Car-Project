@@ -2,6 +2,9 @@
 
 ## Usage 
 Pull down and launch with node, follow the series of prompts to enter vehicles of various types and play with them.
+
+Check out the below walkthru video:
+https://youtu.be/9qBQCeexsWU
     
 ## Motivation
 I have a deep love for cars, trucks, and motorcycles and thought why not make a vehicle-themed text adventure game.
